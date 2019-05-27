@@ -1,0 +1,17 @@
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\AutoMapper.dll
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\DataAccess.dll
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\Ninject.dll
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\DataAccess.pdb
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\DataAccess.dll.config
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\AutoMapper.pdb
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\AutoMapper.xml
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\Ninject.xml
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\obj\Debug\Business.csproj.CopyComplete
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\taylan.kaya\source\repos\Deneme\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

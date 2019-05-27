@@ -1,0 +1,14 @@
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\Ninject.dll
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\bin\Debug\Ninject.xml
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\taylan.kaya\source\repos\Deneme\DataAccess\obj\Debug\DataAccess.pdb

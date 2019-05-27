@@ -1,0 +1,10 @@
+C:\Users\taylan.kaya\source\repos\Deneme\UI\bin\Debug\UI.exe.config
+C:\Users\taylan.kaya\source\repos\Deneme\UI\bin\Debug\UI.exe
+C:\Users\taylan.kaya\source\repos\Deneme\UI\bin\Debug\UI.pdb
+C:\Users\taylan.kaya\source\repos\Deneme\UI\bin\Debug\Ninject.dll
+C:\Users\taylan.kaya\source\repos\Deneme\UI\bin\Debug\Ninject.xml
+C:\Users\taylan.kaya\source\repos\Deneme\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\taylan.kaya\source\repos\Deneme\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\taylan.kaya\source\repos\Deneme\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\taylan.kaya\source\repos\Deneme\UI\obj\Debug\UI.exe
+C:\Users\taylan.kaya\source\repos\Deneme\UI\obj\Debug\UI.pdb
